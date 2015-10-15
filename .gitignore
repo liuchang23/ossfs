@@ -1,0 +1,10 @@
+bin
+local
+include
+lib
+.Python
+pip-selfcheck.json
+*.tar.gz
+.idea
+*idea
+*.pyc
